@@ -1,16 +1,108 @@
-## Hi there 👋
+from pathlib import Path
 
-<!--
-**Miskevish/Miskevish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Contenido del README.md desde el documento actual
+readme_content = """
+<p align="center">
+  <img src="https://github.com/NicoMiskevish/NicoMiskevish/blob/main/assets/banner-mapache.png" alt="banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hola 👋, soy Nicolas Miskevish</h1>
+<h3 align="center">Programador Trainee | Desarrollador Web Fullstack egresado de Rolling School | Estudiante de Ingeniería en Informática</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>Code. Coffee. Repeat.</em>
+</p>
+
+---
+
+### 📬 Contacto
+<p align="left">
+  <a href="mailto:nicomiskevish@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/nicolas-miskevish-156309329/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/nicomiskevish" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+### 🧠 Tecnologías que manejo
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="40" alt="Axios" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" alt="Vite" />
+</p>
+
+---
+
+### 🚀 Proyectos destacados
+
+#### 🛒 HardTech eCommerce
+<p align="center">
+  <img src="https://github.com/NicoMiskevish/NicoMiskevish/blob/main/assets/hardtech-preview.png" width="80%" alt="HardTech eCommerce Preview"/>
+</p>
+<p>Tienda online de productos de PC con carrito, favoritos y panel de administración.</p>
+<p>
+  <a href="https://hardtech.netlify.app">🔗 Ver sitio</a> • <a href="https://github.com/NicoMiskevish/HardTech">💻 GitHub</a>
+</p>
+
+#### 🐾 Patitas Felices Frontend
+<p align="center">
+  <img src="https://github.com/NicoMiskevish/NicoMiskevish/blob/main/assets/patitas-frontend.png" width="80%" alt="Patitas Felices Frontend Preview"/>
+</p>
+<p>Interfaz para sitio de adopción y gestión veterinaria con diseño personalizado.</p>
+<p>
+  <a href="https://patitasfelices.netlify.app">🔗 Ver sitio</a> • <a href="https://github.com/NicoMiskevish/PatitasFelices-Front">💻 GitHub</a>
+</p>
+
+#### 💾 Patitas Felices Backend
+<p align="center">
+  <img src="https://github.com/NicoMiskevish/NicoMiskevish/blob/main/assets/patitas-backend.png" width="80%" alt="Patitas Felices Backend Preview"/>
+</p>
+<p>API RESTful con Express y MongoDB para gestión de usuarios, productos y autenticación.</p>
+<p>
+  <a href="https://github.com/NicoMiskevish/PatitasFelices-Back">💻 GitHub</a>
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMiskevish&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMiskevish&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoMiskevish&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🔥 Actividad reciente
+<p align="center">
+  <img src="https://github.com/NicoMiskevish/NicoMiskevish/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+"""
+
+# Guardar en archivo .md
+readme_path = Path("/mnt/data/README-NicolasMiskevish.md")
+readme_path.write_text(readme_content.strip(), encoding="utf-8")
+
+readme_path.name
