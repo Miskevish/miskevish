@@ -1,3 +1,7 @@
+from pathlib import Path
+
+# Volver a crear el contenido del archivo tras el reinicio del entorno
+readme_updated = """
 <p align="center">
   <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/banner-mapache.png.png" alt="banner" width="100%" height="300" />
 </p>
