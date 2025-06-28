@@ -52,7 +52,7 @@
       <h4>🛒 HardTech eCommerce</h4>
       <p>Tienda online de productos de PC con carrito, favoritos y panel de administración.</p>
       <p>
-        <a href="https://hardtech.netlify.app">🔗 Ver sitio</a> • <a href="https://github.com/NicoMiskevish/HardTech">💻 GitHub</a>
+        <a href="https://hardtech2.netlify.app/">🔗 Ver sitio</a> • <a href="https://github.com/Miskevish/HardTech-Fron-End">💻 GitHub</a>
       </p>
     </td>
   </tr>
@@ -64,7 +64,7 @@
       <h4>🐾 Patitas Felices Frontend</h4>
       <p>Interfaz para sitio de adopción y gestión veterinaria con diseño personalizado.</p>
       <p>
-        <a href="https://patitasfelices.netlify.app">🔗 Ver sitio</a> • <a href="https://github.com/NicoMiskevish/PatitasFelices-Front">💻 GitHub</a>
+        <a href="https://patitasfelices7.netlify.app/">🔗 Ver sitio</a> • <a href="https://github.com/AnaPSoler/PatitasFelices">💻 GitHub</a>
       </p>
     </td>
   </tr>
@@ -76,7 +76,7 @@
       <h4>💾 Patitas Felices Backend</h4>
       <p>API RESTful con Express y MongoDB para gestión de usuarios, productos y autenticación.</p>
       <p>
-        <a href="https://github.com/NicoMiskevish/PatitasFelices-Back">💻 GitHub</a>
+        <a href="https://github.com/AnaPSoler/Patitas-Felices-Backend">💻 GitHub</a>
       </p>
     </td>
   </tr>
