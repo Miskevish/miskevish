@@ -1,6 +1,6 @@
 readme_content = """
 <p align="center">
-  <img src="https://github.com/NicoMiskevish/NicoMiskevish/blob/main/assets/banner-mapache.png" alt="banner" width="100%" />
+  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/banner-mapache.png.png" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hola 👋, soy Nicolas Miskevish</h1>
