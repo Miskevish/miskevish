@@ -1,6 +1,3 @@
-from pathlib import Path
-
-# Contenido del README.md desde el documento actual
 readme_content = """
 <p align="center">
   <img src="https://github.com/NicoMiskevish/NicoMiskevish/blob/main/assets/banner-mapache.png" alt="banner" width="100%" />
@@ -80,29 +77,3 @@ readme_content = """
   <a href="https://github.com/NicoMiskevish/PatitasFelices-Back">💻 GitHub</a>
 </p>
 
----
-
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMiskevish&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMiskevish&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoMiskevish&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-### 🔥 Actividad reciente
-<p align="center">
-  <img src="https://github.com/NicoMiskevish/NicoMiskevish/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-"""
-
-# Guardar en archivo .md
-readme_path = Path("/mnt/data/README-NicolasMiskevish.md")
-readme_path.write_text(readme_content.strip(), encoding="utf-8")
-
-readme_path.name
