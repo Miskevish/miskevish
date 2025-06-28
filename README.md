@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/banner-mapache.png.png" alt="banner" width="100%" height="300" />
+  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/banner-mapache.png.png" alt="banner" width="100%" height="340" />
 </p>
 
 <h1 align="center">Hola 👋, soy Nicolas Miskevish</h1>
 <h3 align="center">Programador Trainee | Desarrollador Web Fullstack egresado de Rolling School | Estudiante de Ingeniería en Informática</h3>
 
-### 📬 Contacto
+### 📬 Contacto: nicomiskevish@gmail.com
 <p align="left">
   <a href="mailto:nicomiskevish@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
