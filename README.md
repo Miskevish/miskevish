@@ -1,4 +1,3 @@
-readme_content = """
 <p align="center">
   <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/banner-mapache.png.png" alt="banner" width="100%" />
 </p>
@@ -47,7 +46,7 @@ readme_content = """
 
 #### 🛒 HardTech eCommerce
 <p align="center">
-  <img src="https://github.com/NicoMiskevish/NicoMiskevish/blob/main/assets/hardtech-preview.png" width="80%" alt="HardTech eCommerce Preview"/>
+  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/hardtech-preview.png.png" width="80%" alt="HardTech eCommerce Preview"/>
 </p>
 <p>Tienda online de productos de PC con carrito, favoritos y panel de administración.</p>
 <p>
@@ -56,7 +55,7 @@ readme_content = """
 
 #### 🐾 Patitas Felices Frontend
 <p align="center">
-  <img src="https://github.com/NicoMiskevish/NicoMiskevish/blob/main/assets/patitas-frontend.png" width="80%" alt="Patitas Felices Frontend Preview"/>
+  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/patitas-frontend.png.png" width="80%" alt="Patitas Felices Frontend Preview"/>
 </p>
 <p>Interfaz para sitio de adopción y gestión veterinaria con diseño personalizado.</p>
 <p>
@@ -65,7 +64,7 @@ readme_content = """
 
 #### 💾 Patitas Felices Backend
 <p align="center">
-  <img src="https://github.com/NicoMiskevish/NicoMiskevish/blob/main/assets/patitas-backend.png" width="80%" alt="Patitas Felices Backend Preview"/>
+  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/patitas-backend.png.png" width="80%" alt="Patitas Felices Backend Preview"/>
 </p>
 <p>API RESTful con Express y MongoDB para gestión de usuarios, productos y autenticación.</p>
 <p>
