@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/banner-mapache.png.png" alt="banner" width="100%" height="120" />
+  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/banner-mapache.png.png" alt="banner" width="100%" height="200" />
 </p>
 
 <h1 align="center">Hola 👋, soy Nicolas Miskevish</h1>
@@ -87,29 +87,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMiskevish&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMiskevish&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoMiskevish&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-### 🔥 Actividad reciente
-<p align="center">
-  <img src="https://github.com/NicoMiskevish/NicoMiskevish/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-"""
-
-readme_md_path = Path("/mnt/data/README-NicoMiskevish.md")
-readme_md_path.write_text(readme_updated.strip(), encoding="utf-8")
-
-readme_md_path.name
