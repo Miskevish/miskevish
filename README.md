@@ -1,10 +1,15 @@
 <p align="center">
-  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/banner-mapache.png.png" alt="banner" width="100%" />
+  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/banner-mapache.png.png" alt="banner" width="100%" height="120" />
 </p>
 
 <h1 align="center">Hola 👋, soy Nicolas Miskevish</h1>
 <h3 align="center">Programador Trainee | Desarrollador Web Fullstack egresado de Rolling School | Estudiante de Ingeniería en Informática</h3>
 
+<p align="center">
+  <em>Code. Coffee. Repeat.</em>
+</p>
+
+---
 
 ### 📬 Contacto
 <p align="left">
@@ -44,30 +49,67 @@
 
 ### 🚀 Proyectos destacados
 
-#### 🛒 HardTech eCommerce
+<table>
+  <tr>
+    <td width="30%">
+      <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/hardtech-preview.png.png" width="100%" alt="HardTech eCommerce Preview"/>
+    </td>
+    <td width="70%">
+      <h4>🛒 HardTech eCommerce</h4>
+      <p>Tienda online de productos de PC con carrito, favoritos y panel de administración.</p>
+      <p>
+        <a href="https://hardtech.netlify.app">🔗 Ver sitio</a> • <a href="https://github.com/NicoMiskevish/HardTech">💻 GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/patitas-frontend.png.png" width="100%" alt="Patitas Felices Frontend Preview"/>
+    </td>
+    <td>
+      <h4>🐾 Patitas Felices Frontend</h4>
+      <p>Interfaz para sitio de adopción y gestión veterinaria con diseño personalizado.</p>
+      <p>
+        <a href="https://patitasfelices.netlify.app">🔗 Ver sitio</a> • <a href="https://github.com/NicoMiskevish/PatitasFelices-Front">💻 GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/patitas-backend.png.png" width="100%" alt="Patitas Felices Backend Preview"/>
+    </td>
+    <td>
+      <h4>💾 Patitas Felices Backend</h4>
+      <p>API RESTful con Express y MongoDB para gestión de usuarios, productos y autenticación.</p>
+      <p>
+        <a href="https://github.com/NicoMiskevish/PatitasFelices-Back">💻 GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/hardtech-preview.png.png" width="80%" alt="HardTech eCommerce Preview"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicoMiskevish&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
-<p>Tienda online de productos de PC con carrito, favoritos y panel de administración.</p>
-<p>
-  <a href="https://hardtech.netlify.app">🔗 Ver sitio</a> • <a href="https://github.com/NicoMiskevish/HardTech">💻 GitHub</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMiskevish&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoMiskevish&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
-#### 🐾 Patitas Felices Frontend
-<p align="center">
-  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/patitas-frontend.png.png" width="80%" alt="Patitas Felices Frontend Preview"/>
-</p>
-<p>Interfaz para sitio de adopción y gestión veterinaria con diseño personalizado.</p>
-<p>
-  <a href="https://patitasfelices.netlify.app">🔗 Ver sitio</a> • <a href="https://github.com/NicoMiskevish/PatitasFelices-Front">💻 GitHub</a>
-</p>
+---
 
-#### 💾 Patitas Felices Backend
+### 🔥 Actividad reciente
 <p align="center">
-  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/patitas-backend.png.png" width="80%" alt="Patitas Felices Backend Preview"/>
+  <img src="https://github.com/NicoMiskevish/NicoMiskevish/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
-<p>API RESTful con Express y MongoDB para gestión de usuarios, productos y autenticación.</p>
-<p>
-  <a href="https://github.com/NicoMiskevish/PatitasFelices-Back">💻 GitHub</a>
-</p>
+"""
 
+readme_md_path = Path("/mnt/data/README-NicoMiskevish.md")
+readme_md_path.write_text(readme_updated.strip(), encoding="utf-8")
+
+readme_md_path.name
