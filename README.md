@@ -64,7 +64,7 @@
       <h4>🐾 Patitas Felices Frontend</h4>
       <p>Interfaz para sitio de adopción y gestión veterinaria con diseño personalizado.</p>
       <p>
-        <a href="https://patitasfelices-front.vercel.app">🔗 Ver sitio</a> • <a href="https://github.com/AnaPSoler/PatitasFelices">💻 GitHub</a>
+        <a href="https://patitas-felices-ten.vercel.app">🔗 Ver sitio</a> • <a href="https://github.com/AnaPSoler/PatitasFelices">💻 GitHub</a>
       </p>
     </td>
   </tr>
