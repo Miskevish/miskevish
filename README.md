@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hola 👋, soy Nicolas Miskevish</h1>
-<h3 align="center">Programador Trainee | Desarrollador Web Fullstack egresado de Rolling School | Estudiante de Ingeniería en Informática</h3>
+<h3 align="center"> Desarrollador Web Fullstack egresado de Rolling School | Estudiante de Ingeniería en Informática</h3>
 
 ### 📬 Contacto: nicomiskevish@gmail.com
 <p align="left">
@@ -64,7 +64,7 @@
       <h4>🐾 Patitas Felices Frontend</h4>
       <p>Interfaz para sitio de adopción y gestión veterinaria con diseño personalizado.</p>
       <p>
-        <a href="https://patitasfelices7.netlify.app/">🔗 Ver sitio</a> • <a href="https://github.com/AnaPSoler/PatitasFelices">💻 GitHub</a>
+        <a href="https://patitasfelices-front.vercel.app">🔗 Ver sitio</a> • <a href="https://github.com/AnaPSoler/PatitasFelices">💻 GitHub</a>
       </p>
     </td>
   </tr>
