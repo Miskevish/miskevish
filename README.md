@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Miskevish/Miskevish/blob/main/assets/banner-mapache.png.png" alt="banner" width="100%" height="340" />
-</p>
-
 <h1 align="center">Hola 👋, soy Nicolas Miskevish</h1>
 <h3 align="center"> Desarrollador Web Fullstack egresado de Rolling School | Estudiante de Ingeniería en Informática</h3>
 
